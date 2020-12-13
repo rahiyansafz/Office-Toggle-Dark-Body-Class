@@ -6,7 +6,7 @@ import { Component, VERSION } from "@angular/core";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  availableClasses: string[] = ["dark", "light"];
+  availableClasses: string[] = ["Dark", "Light"];
   currentClassIdx: number = 0;
 
   bodyClass: string;

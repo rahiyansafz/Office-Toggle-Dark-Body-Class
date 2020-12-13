@@ -1,3 +1,19 @@
-p {
-  font-family: Lato;
+h1 {
+  text-align: center;
+}
+
+button {
+  background-color: #f1f1f1;
+  color: black;
+  font-size: 16px;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
 }

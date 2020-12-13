@@ -5,12 +5,12 @@ body {
   width: 500px;
 }
 
-body.dark {
+body.Dark {
   background: black;
   color: white;
 }
 
-body.light {
+body.Light {
   background: white;
   color: black;
 }
