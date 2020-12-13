@@ -1,18 +1,16 @@
 /* Add application styles & imports to this file! */
 
-
-
-body{
+body {
   height: 400px;
   width: 500px;
 }
 
-body.dark{
+body.dark {
   background: black;
-  color:white;
+  color: white;
 }
 
-body.light{
+body.light {
   background: white;
-  color:black;
+  color: black;
 }
